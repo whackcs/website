@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="opensource.osu.edu/open-source-club-website/atom.xml" rel="self" type="application/atom+xml" /><link href="opensource.osu.edu/open-source-club-website/" rel="alternate" type="text/html" /><updated>2016-03-08T15:08:34-05:00</updated><id>opensource.osu.edu/open-source-club-website/</id><title>The Open Source Club</title><subtitle>The Open Source Club at at the Ohio State University is a [registered student organization](https://ohiounion.osu.edu/get_involved/student_organizations/directory?org_id=1042) composed of members from all around campus and out into the community who share a common enthusiasm for [free, open source software](https://www.fsf.org/about/what-is-free-software). Our focus is on building a strong community of open source users and developers in order to bring the benefits of open development, open standards, and free software to the university community.
+</subtitle><entry><title>Open Source and Linux Gaming</title><link href="opensource.osu.edu/open-source-club-website/announcements/2016/03/07/linux_gaming/" rel="alternate" type="text/html" title="Open Source and Linux Gaming" /><published>2016-03-07T00:00:00-05:00</published><updated>2016-03-07T11:33:10-05:00</updated><id>opensource.osu.edu/open-source-club-website/announcements/2016/03/07/linux_gaming</id><content type="html" xml:base="opensource.osu.edu/open-source-club-website/announcements/2016/03/07/linux_gaming/">&lt;p&gt;Level up this Thursday, 2016/03/10 at 7:00pm in Caldwell Labs 120 as Nikit
+Malkan and William Osler present a talk on gaming with Linux. From free software
+games like 0 A.D. and Super Tux Cart to proprietary games that run with a
+compatibility layer, come learn about some of the essentials for getting the
+most game out of your Linux system. We’ll also be covering details like how to
+get set up and going in Wine, games you can run Linux servers for, game engines
+with Linux support and more.&lt;/p&gt;
+
+&lt;p&gt;Also important this week, we’ll be having registration for club voting. We’re
+changing up how voting is done for University compliance reasons. If you want to
+be able to have a vote in future club leader or constitution changes, attending
+this week’s meeting is super important.&lt;/p&gt;
+
+&lt;p&gt;A huge thanks to everyone who helped volunteer during the OHI/O Makeathon over
+the weekend. Volunteer efforts help keep our club running (and buy that pizza we
+all enjoy).&lt;/p&gt;
+
+&lt;p&gt;Laptops are encouraged, and as always there will be pizza.&lt;/p&gt;</content><category term="announcements" /><summary>Level up this Thursday, 2016/03/10 at 7:00pm in Caldwell Labs 120 as Nikit
+Malkan and William Osler present a talk on gaming with Linux. From free software
+games like 0 A.D. and Super Tux Cart to proprietary games that run with a
+compatibility layer, come learn about some of the essentials for getting the
+most game out of your Linux system. We’ll also be covering details like how to
+get set up and going in Wine, games you can run Linux servers for, game engines
+with Linux support and more.</summary></entry><entry><title>Open Source Hardware and Hobby Electronics</title><link href="opensource.osu.edu/open-source-club-website/announcements/2016/02/27/hobby_electronics/" rel="alternate" type="text/html" title="Open Source Hardware and Hobby Electronics" /><published>2016-02-27T00:00:00-05:00</published><updated>2016-02-29T13:31:47-05:00</updated><id>opensource.osu.edu/open-source-club-website/announcements/2016/02/27/hobby_electronics</id><content type="html" xml:base="opensource.osu.edu/open-source-club-website/announcements/2016/02/27/hobby_electronics/">&lt;p&gt;Thursday, 2016/03/03 at 7:00pm in Caldwell Labs 120&lt;/p&gt;
+
+&lt;p&gt;Alex Fuhr will be giving an intro to open-source hardware and hobby electronics. This talk is designed for those who are entering the Makeathon or who just want to learn more about hardware in general, and will cover topics such as microcontrollers, digit and analog I/O, prototyping tools, serial communication protocols, and potential project ideas.&lt;/p&gt;
+
+&lt;p&gt;It’s not too late to &lt;a href=&quot;http://make-oh.io/&quot;&gt;sign up for the Makeathon&lt;/a&gt; this Saturday (March 5th). No matter your level of experience in hardware, you can still make something great.&lt;/p&gt;</content><category term="announcements," /><category term="hardware" /><summary>Thursday, 2016/03/03 at 7:00pm in Caldwell Labs 120</summary></entry><entry><title>Forensic Data Analysis</title><link href="opensource.osu.edu/open-source-club-website/announcements/2016/02/24/forensic_computer_analysis/" rel="alternate" type="text/html" title="Forensic Data Analysis" /><published>2016-02-24T00:00:00-05:00</published><updated>2016-02-24T11:49:25-05:00</updated><id>opensource.osu.edu/open-source-club-website/announcements/2016/02/24/forensic_computer_analysis</id><content type="html" xml:base="opensource.osu.edu/open-source-club-website/announcements/2016/02/24/forensic_computer_analysis/">&lt;p&gt;Thursday, 2016/02/25 at 7:00pm in Caldwell Labs 120&lt;/p&gt;
+
+&lt;p&gt;This week Matt Curtin will present on forensic data analysis. This will focus on the use of technology in legal cases. Matt Curtin, and his company Interhack Corporation, has addressed courts on the topics of wiretapping, data breaches, and more. Matt Curtin will address the merits of opensource software in forensic data analysis in court rooms in order to reach a resolution that may be much more controversial when using proprietary software.&lt;/p&gt;
+
+&lt;p&gt;As always there will be good pizza and good fun.&lt;/p&gt;</content><category term="announcements," /><category term="data" /><category term="analysis" /><summary>Thursday, 2016/02/25 at 7:00pm in Caldwell Labs 120</summary></entry><entry><title>Intermediate Vim</title><link href="opensource.osu.edu/open-source-club-website/announcements/2016/02/16/vim_intermediate/" rel="alternate" type="text/html" title="Intermediate Vim" /><published>2016-02-16T00:00:00-05:00</published><updated>2016-02-17T15:53:47-05:00</updated><id>opensource.osu.edu/open-source-club-website/announcements/2016/02/16/vim_intermediate</id><content type="html" xml:base="opensource.osu.edu/open-source-club-website/announcements/2016/02/16/vim_intermediate/">&lt;p&gt;Thursday, 2016/02/18 at 7:00pm in Caldwell Labs 120&lt;/p&gt;
+
+&lt;p&gt;This talk is targeted at the Vim user who is looking to take their knowledge of the editor to the next level. It can take several years to master a text editor in all it’s intricacies, and Vim is no exception. Having used Vim for the last four years or so, I will try to impart some of the lessons I have learned - not just about how to use Vim, but also about how to learn to use Vim. Some prior Vim experience will be beneficial.&lt;/p&gt;
+
+&lt;p&gt;Thanks,&lt;/p&gt;
+
+&lt;p&gt;Jonathan Arnett&lt;/p&gt;</content><category term="announcements," /><category term="vim," /><category term="text" /><category term="editor" /><summary>Thursday, 2016/02/18 at 7:00pm in Caldwell Labs 120</summary></entry><entry><title>Pure Data</title><link href="opensource.osu.edu/open-source-club-website/announcements/2016/01/31/pure_data/" rel="alternate" type="text/html" title="Pure Data" /><published>2016-01-31T00:00:00-05:00</published><updated>2016-02-05T23:09:59-05:00</updated><id>opensource.osu.edu/open-source-club-website/announcements/2016/01/31/pure_data</id><content type="html" xml:base="opensource.osu.edu/open-source-club-website/announcements/2016/01/31/pure_data/">&lt;p&gt;Thursday, 2016/02/04 at 7:00pm in Caldwell Labs 120, Alex Fuhr will present Pure
+Data. Pure Data is an open source visual programming language for audio,
+graphic, and signal processing. This talk will start with the basic concepts of
+the language, and then dive deeper into topics such as audio generation and
+manipulation, helpful subroutines, graphical processing, connecting to an
+Arduino, and more advanced audio examples.&lt;/p&gt;
+
+&lt;p&gt;In order to follow along with all the demos, make sure to install pd-extended
+(Pure Data with extra libraries) before the meeting. You can find installation
+instructions &lt;a href=&quot;http://puredata.info/downloads/pd-extended​&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--assumes presenationn is a pdf--&gt;
+&lt;!-- [download presentation](/open-source-club-website/downloads/presentations/2016-01-31-pure_data.pdf) --&gt;</content><category term="announcements," /><category term="pure" /><category term="data," /><category term="language" /><summary>Thursday, 2016/02/04 at 7:00pm in Caldwell Labs 120, Alex Fuhr will present Pure
+Data. Pure Data is an open source visual programming language for audio,
+graphic, and signal processing. This talk will start with the basic concepts of
+the language, and then dive deeper into topics such as audio generation and
+manipulation, helpful subroutines, graphical processing, connecting to an
+Arduino, and more advanced audio examples.</summary></entry><entry><title>Arch Linux</title><link href="opensource.osu.edu/open-source-club-website/announcements/2016/01/27/arch_linux/" rel="alternate" type="text/html" title="Arch Linux" /><published>2016-01-27T00:00:00-05:00</published><updated>2016-01-31T17:00:57-05:00</updated><id>opensource.osu.edu/open-source-club-website/announcements/2016/01/27/arch_linux</id><content type="html" xml:base="opensource.osu.edu/open-source-club-website/announcements/2016/01/27/arch_linux/">&lt;p&gt;Thursday’s talk will be on installing Arch Linux, performed by our longtime
+sysadmin William Osler. I also want to finalize a schedule for at least the next
+couple weeks after gauging interest at last week’s meeting.&lt;/p&gt;
+
+&lt;p&gt;Many distributions like Ubuntu or Fedora are configured and set up with
+out-of-the box programs and features. While this is very convenient, digging
+deeper and setting up a system yourself will allow you to understand your system
+and better customize it to your needs. Arch Linux is a distribution that makes
+it easy to build your system up from a lightweight and simple base into an
+operating system tailored to you. I’ll be covering everything from how to
+install Arch using the Arch live image (there’s no installer, but I promise it’s
+not scary!), to configuring your base system, working with packages, and
+eventually building your way up to a desktop interface.&lt;/p&gt;
+
+&lt;p&gt;Laptops are encouraged but not required, and as always, there will be pizza.&lt;/p&gt;
+
+&lt;p&gt;– Alex Krieger&lt;/p&gt;</content><category term="announcements," /><category term="arch" /><category term="linux," /><category term="distribution," /><category term="distro" /><summary>Thursday’s talk will be on installing Arch Linux, performed by our longtime
+sysadmin William Osler. I also want to finalize a schedule for at least the next
+couple weeks after gauging interest at last week’s meeting.</summary></entry><entry><title>Meeting Planning + Lightning Talks</title><link href="opensource.osu.edu/open-source-club-website/announcements/2016/01/21/lightning_talks/" rel="alternate" type="text/html" title="Meeting Planning + Lightning Talks" /><published>2016-01-21T00:00:00-05:00</published><updated>2016-01-31T17:00:57-05:00</updated><id>opensource.osu.edu/open-source-club-website/announcements/2016/01/21/lightning_talks</id><content type="html" xml:base="opensource.osu.edu/open-source-club-website/announcements/2016/01/21/lightning_talks/">&lt;p&gt;Tonight’s meeting will be drafting future talks for the semester + some
+lightning talks; and I’m going to give a condensed version of a powerpoint at a
+conference that I saw on Monday dealing with the economics of zero-day
+vulnerabilities. Future meeting dates will posted on the website as they’re
+determined.&lt;/p&gt;
+
+&lt;p&gt;Laptops are encouraged but not required, and as always, there will be pizza.&lt;/p&gt;
+
+&lt;p&gt;– Alex Krieger&lt;/p&gt;</content><category term="announcements," /><category term="lightning" /><category term="talk" /><summary>Tonight’s meeting will be drafting future talks for the semester + some
+lightning talks; and I’m going to give a condensed version of a powerpoint at a
+conference that I saw on Monday dealing with the economics of zero-day
+vulnerabilities. Future meeting dates will posted on the website as they’re
+determined.</summary></entry><entry><title>Welcome Back</title><link href="opensource.osu.edu/open-source-club-website/announcements/2016/01/10/welcome-back/" rel="alternate" type="text/html" title="Welcome Back" /><published>2016-01-10T00:00:00-05:00</published><updated>2016-01-31T17:00:57-05:00</updated><id>opensource.osu.edu/open-source-club-website/announcements/2016/01/10/welcome-back</id><content type="html" xml:base="opensource.osu.edu/open-source-club-website/announcements/2016/01/10/welcome-back/">&lt;p&gt;This Thursday, January 14th at 7PM in Caldwell 120, we will be voting on whether
+or not to amend our club’s constitution. So for that reason, I encourage everyones’
+attendance.&lt;/p&gt;
+
+&lt;p&gt;Laptops are encouraged but not required, and as always, there will be pizza.&lt;/p&gt;
+
+&lt;p&gt;– Eli Gladman&lt;/p&gt;</content><category term="announcements," /><category term="first" /><summary>This Thursday, January 14th at 7PM in Caldwell 120, we will be voting on whether
+or not to amend our club’s constitution. So for that reason, I encourage everyones’
+attendance.</summary></entry><entry><title>Spring 2016 Semester Schedule</title><link href="opensource.osu.edu/open-source-club-website/schedules/2015/12/22/semester-schedule/" rel="alternate" type="text/html" title="Spring 2016 Semester Schedule" /><published>2015-12-22T00:00:00-05:00</published><updated>2016-02-23T15:02:55-05:00</updated><id>opensource.osu.edu/open-source-club-website/schedules/2015/12/22/semester-schedule</id><content type="html" xml:base="opensource.osu.edu/open-source-club-website/schedules/2015/12/22/semester-schedule/">&lt;p&gt;Feel free to contact us to arrange a presentation on our schedule this semester. Just email &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#111;&amp;#102;&amp;#102;&amp;#105;&amp;#099;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#111;&amp;#112;&amp;#101;&amp;#110;&amp;#115;&amp;#111;&amp;#117;&amp;#114;&amp;#099;&amp;#101;&amp;#046;&amp;#111;&amp;#115;&amp;#117;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&quot;&gt;&amp;#111;&amp;#102;&amp;#102;&amp;#105;&amp;#099;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#111;&amp;#112;&amp;#101;&amp;#110;&amp;#115;&amp;#111;&amp;#117;&amp;#114;&amp;#099;&amp;#101;&amp;#046;&amp;#111;&amp;#115;&amp;#117;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;date&lt;/th&gt;
+      &lt;th&gt;topic&lt;/th&gt;
+      &lt;th&gt;speaker(s)&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1/14/2016&lt;/td&gt;
+      &lt;td&gt;Welcome Back&lt;/td&gt;
+      &lt;td&gt;Eli Gladman&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1/21/2016&lt;/td&gt;
+      &lt;td&gt;Meeting Planning + Lightning Talks&lt;/td&gt;
+      &lt;td&gt;Alex Krieger&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1/28/2016&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.archlinux.org&quot;&gt;Arch Linux&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;William Osler (LibreWulf)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2/4/2016&lt;/td&gt;
+      &lt;td&gt;Pure Data&lt;/td&gt;
+      &lt;td&gt;Alex Fuhr&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2/11/2016&lt;/td&gt;
+      &lt;td&gt;Git&lt;/td&gt;
+      &lt;td&gt;Brandon Moore&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2/18/2016&lt;/td&gt;
+      &lt;td&gt;Intermediate Level Vim&lt;/td&gt;
+      &lt;td&gt;J3RN Arnett&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2/25/2016&lt;/td&gt;
+      &lt;td&gt;Forensic Data Analysis&lt;/td&gt;
+      &lt;td&gt;Matt Curtin&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3/3/2016&lt;/td&gt;
+      &lt;td&gt;Basic Hardware(pre-Makeathon)&lt;/td&gt;
+      &lt;td&gt;Alex Fuhr&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3/10/2016&lt;/td&gt;
+      &lt;td&gt;Linux Gaming&lt;/td&gt;
+      &lt;td&gt;William Osler (LibreWulf) and Nikit Malkan (Nefari0uss)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3/17/2016&lt;/td&gt;
+      &lt;td&gt;Spring break, no meeting&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3/24/2016&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://www.ire.org/conferences/nicar2016/&quot;&gt;NICAR 2016&lt;/a&gt; recap&lt;/td&gt;
+      &lt;td&gt;Ben Keith&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3/31/2016&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://bedrocklinux.org&quot;&gt;Bedrock Linux&lt;/a&gt; introduction&lt;/td&gt;
+      &lt;td&gt;paradigm&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4/7/2016&lt;/td&gt;
+      &lt;td&gt;Unix based history&lt;/td&gt;
+      &lt;td&gt;Brandon Moore&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4/14/2016&lt;/td&gt;
+      &lt;td&gt;available&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4/21/2016&lt;/td&gt;
+      &lt;td&gt;available&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4/28/2016&lt;/td&gt;
+      &lt;td&gt;Final Exams, no meeting, have a good summer&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><category term="schedules" /><summary>Feel free to contact us to arrange a presentation on our schedule this semester. Just email &amp;#111;&amp;#102;&amp;#102;&amp;#105;&amp;#099;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#111;&amp;#112;&amp;#101;&amp;#110;&amp;#115;&amp;#111;&amp;#117;&amp;#114;&amp;#099;&amp;#101;&amp;#046;&amp;#111;&amp;#115;&amp;#117;&amp;#046;&amp;#101;&amp;#100;&amp;#117;</summary></entry><entry><title>Meteor.js</title><link href="opensource.osu.edu/open-source-club-website/announcements/2015/12/09/meteor/" rel="alternate" type="text/html" title="Meteor.js" /><published>2015-12-09T00:00:00-05:00</published><updated>2016-01-31T17:00:57-05:00</updated><id>opensource.osu.edu/open-source-club-website/announcements/2015/12/09/meteor</id><content type="html" xml:base="opensource.osu.edu/open-source-club-website/announcements/2015/12/09/meteor/">&lt;p&gt;This Thursday, December 10th at 7PM in Caldwell 120, I will be discussing / demoing Meteor.js.&lt;/p&gt;
+
+&lt;p&gt;“Meteor is a full-stack JavaScript App Platform that assemble all the pieces you need to build modern web and mobile apps, with a single JavaScript codebase.”&lt;/p&gt;
+
+&lt;p&gt;Laptops are encouraged but not required, and as always, there will be pizza.&lt;/p&gt;
+
+&lt;p&gt;Good luck on exams.&lt;/p&gt;
+
+&lt;p&gt;– Eli Gladman&lt;/p&gt;</content><category term="announcements," /><category term="meteor," /><category term="meteorjs," /><category term="js," /><category term="javascript," /><category term="webdev," /><category term="web" /><category term="development" /><summary>This Thursday, December 10th at 7PM in Caldwell 120, I will be discussing / demoing Meteor.js.</summary></entry></feed>
